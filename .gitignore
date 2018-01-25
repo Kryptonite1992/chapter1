@@ -4,6 +4,6 @@ target/
 #Eclipse#
 .settings/
 .metadata/
-.classpath/
-.project/
+.classpath
+.project
 Servers/
